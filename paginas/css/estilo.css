@@ -1,0 +1,8 @@
+.pagina{
+    border:1 solid dimgray;
+    font-family: pacifico;
+    font-size: small;
+    color :dimgray;
+    box-shadow: 0 8px 8px 0 dimgray;
+    text-align: center;
+}
